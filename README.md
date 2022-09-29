@@ -15,3 +15,22 @@ Excel version of the tmplate created by Lenny Zeltser and discussed at https://z
 I added in Diamond Model visualizations with space to fill in the verticies.
 
 Hope this helps someone.
+
+
+## Intro Tab
+![Intro Tab](/Graphics/Intro.png)
+
+
+## Incident Info Tab
+![Incident Info Tab](/Graphics/incident_info.png)
+
+
+## Adversary/ Diamond Model Tab
+![Adversary/ Diamond Model Tab](/Graphics/adversary_diamond_model.png)
+
+## Course of Action During IR
+![Course of Action During IR Tab](/Graphics/course_action_during_ir.png)
+
+## Intrustion Campaign Analysis
+![Intrustion Campaign Analysis Tab](/Graphics/intrusion_campaign_analysis.png)
+
