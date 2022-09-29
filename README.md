@@ -10,7 +10,7 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 # Report Template for Threat Intelligence and Incident Response
-Excel version of the tmplate created by Lenny Zeltser and discussed at https://zeltser.com/cyber-threat-intel-and-ir-report-template/.
+Modified Excel version of the tmplate created by Lenny Zeltser and discussed at https://zeltser.com/cyber-threat-intel-and-ir-report-template/.
 
 I added in Diamond Model visualizations with space to fill in the verticies.
 
